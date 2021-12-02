@@ -1,4 +1,7 @@
+#include <SFML/Graphics.hpp>
+#include <time.h>
 #include "heads.h"
+#include "Field.h"
 
 
 
@@ -10,6 +13,11 @@ bool check()
         else if (field[a[i].y][a[i].x]) return 0;
 
     return 1;
+};
+
+class tetris() {
+private:
+    gameField(m_gameField);
 };
 
 

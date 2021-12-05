@@ -6,7 +6,7 @@
 class canvas {
 public:
     canvas();
-    ~canvas();
+  //  ~canvas();
   
 };
 

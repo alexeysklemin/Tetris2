@@ -14,3 +14,4 @@ canvas::canvas(){
 
     Sprite s(t1), background(t2), frame(t3);
 }
+

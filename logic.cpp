@@ -1,3 +1,6 @@
+#include <SFML/Graphics.hpp>
+#include <time.h>
+#include <Windows>
 #include "heads.h"
 
 void move()

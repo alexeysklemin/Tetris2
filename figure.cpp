@@ -1,3 +1,6 @@
+#include <SFML/Graphics.hpp>
+#include <time.h>
+#include <Windows>
 
     struct Point {
         int x, y;
